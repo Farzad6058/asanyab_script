@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Settings">
+    <option name="inertiaPageRootPath" value="resources/js/Pages;" />
+    <option name="moduleSrcDirectoryPath" value="app" />
+    <option name="modulesDirectoryPath" value="Modules" />
+    <option name="projectDirectoryPath" value="" />
+    <option name="projectType" value="Standard Application" />
+    <option name="routeNotFoundAnnotatorWarning" value="true" />
+    <option name="suppressRealTimeFacadeWarnings" value="true" />
+    <option name="translationKeyNotFoundAnnotatorWarning" value="true" />
+  </component>
+</project>
